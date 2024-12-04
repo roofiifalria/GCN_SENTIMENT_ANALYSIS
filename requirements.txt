@@ -1,0 +1,9 @@
+py2neo
+transformers
+torch
+beautifulsoup4
+requests
+spacy
+torch-geometric
+scikit-learn
+tqdm
